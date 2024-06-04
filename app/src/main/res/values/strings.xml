@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="mountain_brook">Mountain Brook</string>
+    <string name="albert_bierstadt_1863">Albert Bierstadt, 1863</string>
+    <string name="fisherman_s_cottage">Fisherman\'s Cottage</string>
+    <string name="harald_sohlberg_1906">Harald Sohlberg, 1906</string>
+    <string name="new_england_scenery">New England Scenery</string>
+    <string name="thomas_cole_1839">Thomas Cole, 1839</string>
+    <string name="art_space">Art Space</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="mountain_brook_painting">Mountain Brook painting</string>
+    <string name="fisherman_s_cottage_painting">Fisherman\'s cottage painting</string>
+    <string name="new_england_scenery_painting">New england scenery painting</string>
+</resources>
